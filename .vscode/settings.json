@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "math.h": "c",
+        "cstdio": "c",
+        "*.tcc": "cpp",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "time.h": "c"
+    }
+}
